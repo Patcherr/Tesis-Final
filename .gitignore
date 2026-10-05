@@ -4,4 +4,4 @@ media/
 __pycache__/
 docs/
 CLAUDE.MD
-.env
+.env.vscode/
